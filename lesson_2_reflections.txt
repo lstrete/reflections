@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 It creates the file .git where the commits will be saved upon request
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+is an intermediate between the two
